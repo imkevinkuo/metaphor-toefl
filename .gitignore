@@ -1,0 +1,6 @@
+data/
+elmo/
+glove/
+.ipynb_checkpoints/
+.idea/
+__pycache__/
